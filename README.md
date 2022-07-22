@@ -9,7 +9,7 @@
   - Bootstrap
   - LESS
 - Backend
-  - Django & Gunicorn
+  - TypeScript
   - Express.js
   - Nginx
   - PostgreSQL
