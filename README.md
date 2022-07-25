@@ -9,6 +9,8 @@
 Стек:
 - Java
     - Spring Boot
+    - Spring MVC
+    - Spring Security
     - Spring Data JPA
     - Maven
 - JS
