@@ -28,5 +28,7 @@
 - Python: Pipenv, Django
 - Концепции: ООП, MVC, REST API, JWT, CMS
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 ## Связь
 [![telegram](https://img.shields.io/badge/-telegram-2c3e50?style=for-the-badge&logo=telegram&logoColor=ecf0f1)](https://t.me/Koichi_hub)
