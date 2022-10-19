@@ -2,8 +2,8 @@
 
 ## Моя [визитка](https://koichi-hub.github.io/Business_card) ^-^
 
-## Основной стек:
-React, NextJS, LESS, SCSS, Bootstrap 5, Express, Nginx, PostgreSQL, Docker, Linux
+## Стек:
+HTML5, CSS3, ECMAScript2021, TS, NodeJS, React, Redux, NextJS, SCSS, Bootstrap5, Prettier, ESLint, Webpack, Rollup, Vite, Svelte, Express, PostgreSQL, Docker, Linux,
 
 ## Связь
 [![telegram](https://img.shields.io/badge/-telegram-2c3e50?style=for-the-badge&logo=telegram&logoColor=ecf0f1)](https://t.me/Koichi_hub)
