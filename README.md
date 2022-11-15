@@ -1,7 +1,7 @@
 # Привет, я Timur Davydov <img src="https://github.com/Koichi-hub/Koichi-hub/blob/master/assets/images/wave.gif" width="25px" height="25px" alt="wave" />
 Мне 21 год, я з Перми, есть 1 год коммерческой разработки на React + TypeScript
 
-Позиционирую Frontend разработчик, хотя есть интерес ко всем областям разработки. В свободное время пишу Веб-приложения, Бэкенд и ботов на TypeScript
+Позиционирую себя как Frontend React разработчик, хотя есть интерес ко всем областям разработки. В свободное время пишу Веб-приложения, Бэкенд и ботов на TypeScript. Занимаюсь кодингом на JavaScript и читаю книги по TypeScript и серверной разработке на NodeJS
 
 ## Моя [визитка](https://koichi-hub.github.io/Business_card) ^-^
 
