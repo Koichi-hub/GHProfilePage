@@ -7,6 +7,7 @@
 
 ## Стек:
 - JavaScript, TypeScript
+- golang, echo, gorm
 - React, Redux-Toolkit, NextJS, SCSS, Bootstrap
 - Prettier, ESLint 
 - Webpack 
@@ -14,6 +15,7 @@
 - GrammY
 - Git
 - PostgreSQL, MongoDB, Docker, Linux
+- C#
 
 ## Связь
 [![telegram](https://img.shields.io/badge/-telegram-2c3e50?style=for-the-badge&logo=telegram&logoColor=ecf0f1)](https://t.me/Koichi_hub)
