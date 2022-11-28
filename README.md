@@ -8,7 +8,7 @@
 ## Стек:
 - JavaScript, TypeScript
 - golang, echo, gorm
-- React, Redux-Toolkit, NextJS, SCSS, Bootstrap
+- React, Vue 3, Vuetify, Redux-Toolkit, NextJS, SCSS, Bootstrap
 - Prettier, ESLint 
 - Webpack 
 - NodeJS, Express
