@@ -1,6 +1,6 @@
 # Hello there! <img src="https://github.com/Koichi-hub/Koichi-hub/blob/master/assets/images/wave.gif" width="25px" height="25px" alt="wave" />
 
-### Stack:
+### Stack
 ![](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f0db4f)
 ![](https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=007acc)
 ![](https://img.shields.io/badge/-React-2c3e50?style=for-the-badge&logo=react&logoColor=ecf0f1)
