@@ -1,4 +1,4 @@
-# Hello there! <img src="https://github.com/Koichi-hub/Koichi-hub/blob/master/assets/images/wave.gif" width="25px" height="25px" alt="wave" />
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?color=%ffffff&lines=Hello+there!+🤙)](https://git.io/typing-svg)
 
 ### Stack
 ![](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f0db4f)
