@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/-Express-2c3e50?style=for-the-badge&logo=express&logoColor=ecf0f1)
 ![](https://img.shields.io/badge/-Vite-2c3e50?style=for-the-badge&logo=vite&logoColor=ecf0f1)
 ![](https://img.shields.io/badge/-Go-ffffff?style=for-the-badge&logo=go&logoColor=29beb0)
+![](https://img.shields.io/badge/-CSharp-ffffff?style=for-the-badge&logo=csharp&logoColor=af33ff)
 ![](https://img.shields.io/badge/-Arch_Linux-2c3e50?style=for-the-badge&logo=arch-linux&logoColor=ecf0f1)
 ![](https://img.shields.io/badge/-Docker-2c3e50?style=for-the-badge&logo=docker&logoColor=ecf0f1)
 ![](https://img.shields.io/badge/-Git-2c3e50?style=for-the-badge&logo=git&logoColor=ecf0f1)
