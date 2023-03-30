@@ -20,3 +20,5 @@
 ### Links
 [![telegram](https://img.shields.io/badge/-telegram-2c3e50?style=for-the-badge&logo=telegram&logoColor=ecf0f1)](https://t.me/Koichi_hub) \
 [![my_page](https://img.shields.io/badge/-my_page-2c3e50?style=for-the-badge&logo=react&logoColor=ecf0f1)](https://koichi-hub.github.io/Business_card)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koichi-hub&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
