@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/-Docker-2c3e50?style=for-the-badge&logo=docker&logoColor=ecf0f1)
 ![](https://img.shields.io/badge/-Git-2c3e50?style=for-the-badge&logo=git&logoColor=ecf0f1)
 ![](https://img.shields.io/badge/-PostgreSQL-2c3e50?style=for-the-badge&logo=postgresql&logoColor=ecf0f1)
+![](https://img.shields.io/badge/-Swagger-2c3e50?style=for-the-badge&logo=swagger&logoColor=ecf0f1)
 
 ### Links
 [![telegram](https://img.shields.io/badge/-telegram-2c3e50?style=for-the-badge&logo=telegram&logoColor=ecf0f1)](https://t.me/Koichi_hub) \
