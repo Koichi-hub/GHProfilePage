@@ -22,5 +22,5 @@
 [![telegram](https://img.shields.io/badge/-telegram-2c3e50?style=for-the-badge&logo=telegram&logoColor=ecf0f1)](https://t.me/Koichi_hub) \
 [![my_page](https://img.shields.io/badge/-my_page-2c3e50?style=for-the-badge&logo=react&logoColor=ecf0f1)](https://koichi-hub.github.io/Business_card)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Koichi-hub&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Koichi-hub&theme=dracula&show_icons=true)](https://github.com/saifurrahman1193)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Koichi-hub&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
