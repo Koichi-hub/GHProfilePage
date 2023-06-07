@@ -20,8 +20,8 @@
 ![](https://img.shields.io/badge/-Swagger-2c3e50?style=for-the-badge&logo=swagger&logoColor=ecf0f1)
 
 ### Links
-[![telegram](https://img.shields.io/badge/-telegram-2c3e50?style=for-the-badge&logo=telegram&logoColor=ecf0f1)](https://t.me/Koichi_hub) \
-[![my_page](https://img.shields.io/badge/-my_page-2c3e50?style=for-the-badge&logo=react&logoColor=ecf0f1)](https://koichi-hub.github.io/Business_card)
+[![telegram](https://img.shields.io/badge/-telegram-2c3e50?style=for-the-badge&logo=telegram&logoColor=ecf0f1)](https://t.me/Koichi_hub)
+<!-- [![my_page](https://img.shields.io/badge/-my_page-2c3e50?style=for-the-badge&logo=react&logoColor=ecf0f1)](https://koichi-hub.github.io/Business_card) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koichi-hub&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koichi-hub&theme=dracula)
