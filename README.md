@@ -24,7 +24,6 @@
 ![](https://img.shields.io/badge/-PostgreSQL-2c3e50?style=for-the-badge&logo=postgresql&logoColor=ecf0f1)
 ![](https://img.shields.io/badge/-MySQL-2c3e50?style=for-the-badge&logo=mysql&logoColor=ecf0f1)
 ![](https://img.shields.io/badge/-Swagger-2c3e50?style=for-the-badge&logo=swagger&logoColor=ecf0f1)
-![](https://img.shields.io/badge/-FSD-2c3e50?style=for-the-badge&logoColor=ecf0f1)
 ![](https://img.shields.io/badge/-OOP-2c3e50?style=for-the-badge&logoColor=ecf0f1)
 ![](https://img.shields.io/badge/-SOLID-2c3e50?style=for-the-badge&logoColor=ecf0f1)
 ![](https://img.shields.io/badge/-Clean_Architecture-2c3e50?style=for-the-badge&logoColor=ecf0f1)
