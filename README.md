@@ -1,5 +1,11 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?color=%ffffff&lines=Hello+there!+🤙)](https://git.io/typing-svg)
 
+### About me
+
+- 🌱 I like to develop projects
+- 🔍 I like to find new solutions
+- 📚 I am continuously learning
+
 ### Stack
 ![](https://img.shields.io/badge/-Go-ffffff?style=for-the-badge&logo=go&logoColor=29beb0)
 ![](https://img.shields.io/badge/-Gin-2c3e50?style=for-the-badge&logo=gin&logoColor=ecf0f1)
