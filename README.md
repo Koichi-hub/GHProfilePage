@@ -41,7 +41,7 @@ My name is Timur Davydov (Koichi-hub). I'm 22 y.o, and I'm a developer :D
 
 [![LeetCode user Koichi-Hub](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKoichi-Hub&logo=leetcode&logoColor=yellow)](https://leetcode.com/Koichi-Hub/) \
 [![Hackerrank user Koichi-Hub](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gogotimur2020) \
-[![Codewars](https://www.codewars.com/users/KoichiHub/badges/large)](https://www.codewars.com/users/KoichiHub)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/KoichiHub)
 
 ### Contacts
 
