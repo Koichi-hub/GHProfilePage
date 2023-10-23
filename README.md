@@ -9,6 +9,7 @@ My name is Timur Davydov (Koichi-hub). I'm 22 y.o, and I'm a developer :D
 - 📚 I study every day asp.net core. And I also solve 5 tasks on leetcode
 
 ### Stack
+
 ![](https://img.shields.io/badge/-Go-ffffff?style=for-the-badge&logo=go&logoColor=29beb0)
 ![](https://img.shields.io/badge/-Gin-2c3e50?style=for-the-badge&logo=gin&logoColor=ecf0f1)
 ![](https://img.shields.io/badge/-Gorm-2c3e50?style=for-the-badge&logo=gorm&logoColor=ecf0f1)
@@ -36,15 +37,23 @@ My name is Timur Davydov (Koichi-hub). I'm 22 y.o, and I'm a developer :D
 ![](https://img.shields.io/badge/-SOLID-2c3e50?style=for-the-badge&logoColor=ecf0f1)
 ![](https://img.shields.io/badge/-Clean_Architecture-2c3e50?style=for-the-badge&logoColor=ecf0f1)
 
-### LeetCode
-[![LeetCode user Koichi-Hub](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKoichi-Hub&logo=leetcode&logoColor=yellow)](https://leetcode.com/Koichi-Hub/)
+### Coding
 
-### Links
-[![telegram](https://img.shields.io/badge/-telegram-2c3e50?style=for-the-badge&logo=telegram&logoColor=ecf0f1)](https://t.me/Koichi_hub)
+[![LeetCode user Koichi-Hub](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKoichi-Hub&logo=leetcode&logoColor=yellow)](https://leetcode.com/Koichi-Hub/) \
+[![Hackerrank user Koichi-Hub](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gogotimur2020) \
+[![Codewars](https://www.codewars.com/users/KoichiHub/badges/large)](https://www.codewars.com/users/KoichiHub)
+
+### Contacts
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Koichi_hub)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gogotimur2020@gmail.com)
+
 <!-- [![my_page](https://img.shields.io/badge/-my_page-2c3e50?style=for-the-badge&logo=react&logoColor=ecf0f1)](https://koichi-hub.github.io/Business_card) -->
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koichi-hub&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koichi-hub&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koichi-hub&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koichi-hub&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koichi-hub&theme=dracula) -->
+### GitHub Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koichi-hub&theme=dracula)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koichi-hub&theme=dracula) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koichi-hub&theme=dracula) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koichi-hub&theme=dracula) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koichi-hub&theme=dracula) -->
