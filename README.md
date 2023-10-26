@@ -7,7 +7,7 @@ My name is Timur Davydov (Koichi-hub). I'm 22 y.o, and I'm a developer :D
 - 🌱 I'm developing a Markie project - a convenient markdown editor
 - 📈 Now I'm interested in developing in C#, golang and TypeScript
 - 📚 I study every day asp.net core. And I also solve 5 tasks on leetcode
-- 
+
 ### Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Koichi_hub)
