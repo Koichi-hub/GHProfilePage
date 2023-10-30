@@ -84,10 +84,10 @@ My name is Timur Davydov (Koichi-hub). I'm 22 y.o, and I'm a developer :D
 
 <!-- [![my_page](https://img.shields.io/badge/-my_page-2c3e50?style=for-the-badge&logo=react&logoColor=ecf0f1)](https://koichi-hub.github.io/Business_card) -->
 
-### GitHub Activity
+### GitHub Activity 2077
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koichi-hub&theme=dracula)
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koichi-hub&theme=dracula) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koichi-hub&theme=dracula) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koichi-hub&theme=dracula) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koichi-hub&theme=dracula) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koichi-hub&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koichi-hub&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koichi-hub&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koichi-hub&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koichi-hub&theme=2077)
