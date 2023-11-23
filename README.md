@@ -1,6 +1,6 @@
 ### Stack
 
-.NET 7, C# 11, ASP.NET Core, EF Core, Automapper, TypeGen, Golang, Gin, Gorm, Docker, PostgreSQL, Linux, OOP, SOLID
+.NET 7, C# 11, ASP.NET Core, EF Core, Automapper, TypeGen, Docker, PostgreSQL, WSL, Linux, OOP, SOLID
 
 ### Hobbie
 
